@@ -1,0 +1,25 @@
+/**  Basic Page CSS **/
+/*body {*/
+/*  font-weight: 200 !important;*/
+/*  background-color: #337ab7 !important;*/
+/*}*/
+
+header a,
+footer a {
+  color: white ;
+}
+
+footer {
+  font-size: 0.8em;
+}
+
+
+body{
+  background-color: beige;
+}
+
+/*.bg-primary,*/
+/*.btn-primary {*/
+/*  background-color: #377bb5 !important;*/
+/*  border: inherit;*/
+/*}*/
